@@ -1,0 +1,1 @@
+-- Supabase migrations removed. Database schema not managed by Supabase anymore.
